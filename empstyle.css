@@ -1,0 +1,39 @@
+emp{
+    background-color: blue;
+
+}
+firstname,lastname,email{
+    font-size: 40px;
+    display: block;
+    color:blue;
+    margin-left: 50px;
+    background-color:purple;
+
+}
+firstname{
+    font-size: 40px;
+    display: block;
+    color:red;
+    margin-left: 50px;
+    font-style: initial;
+    background-color:yellowgreen;
+
+}
+lastname{
+    font-size: 40px;
+    display: block;
+    color:pink;
+    margin-left: 50px;
+    font-style: bold;
+    background-color: wheat;
+
+
+}
+email{
+    font-size: 40px;
+    display: block;
+    color:black;
+    margin-left: 50px;
+    background-color: red;
+
+}

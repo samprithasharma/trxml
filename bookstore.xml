@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+<name>a song of ice and fire</name>
+<author> georg</author>
+<language>english</language>
+<genre>epic fantasy</genre>
+</book>
+<book>
+<name>2states</name>
+<author> chetan bagath</author>
+<language>english</language>
+<genre>romantic</genre>
+</book>
+<book>
+<name>xyz</name>
+<author> sam</author>
+<language>english</language>
+<genre>mystry</genre>
+</book>
+</bookstore>
+                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

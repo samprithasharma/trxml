@@ -1,0 +1,26 @@
+class {
+    background-color:rgb(205, 169, 50);
+    width: 100%;
+}
+student {
+    display: block;
+    color: #ff00b3;
+    font-size: 20pt;
+
+}
+firstname {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+    
+}
+lastname {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+nickname,marks {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
